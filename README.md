@@ -1,9 +1,3 @@
-/*test machine: CSEL-LINDL102-32
-* date: 04/09/24
-* name: Sharmarke Ahmed, Bradley Johnson, John Van Sloun
-* x500: ahme0344, joh22202, vansl060
-*/
-
 Contributions:
 - Sharmarke Ahmed: main() function, insert(), deallocate_linked_list(), read_line() functions, README
 - Bradley Johnson: process_file(), bug testing
